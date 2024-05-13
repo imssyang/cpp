@@ -1,0 +1,7 @@
+%.c: one = cool
+
+this.c: 
+	echo one is defined: $(one)
+
+other:
+	echo one is nothing: $(one)
