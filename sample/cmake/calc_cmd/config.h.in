@@ -1,0 +1,4 @@
+// the configured options and settings for calc
+#define CALC_VERSION_MAJOR @CALC_VERSION_MAJOR@
+#define CALC_VERSION_MINOR @CALC_VERSION_MINOR@
+#cmakedefine USE_MYMATH
